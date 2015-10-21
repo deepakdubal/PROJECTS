@@ -19,7 +19,7 @@ namespace MyFirstApplication
         }
         public void test2()
         {
-
+            string stage = "true";
         }
     }
 }
