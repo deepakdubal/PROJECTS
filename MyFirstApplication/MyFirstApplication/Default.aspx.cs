@@ -17,5 +17,9 @@ namespace MyFirstApplication
         { 
         
         }
+        public void test2()
+        {
+
+        }
     }
 }
